@@ -1,5 +1,5 @@
 // src/const.ts
-var ADDRESS = "https:/talist.lyxhwy.top";
+var ADDRESS = "https://alist.lyxhwy.top";
 var TOKEN = "alist-2c6f7899-c9ba-49b6-ab64-0746558216ad60vfXdX0Fi3mUK7WRpDwD5UgZ3nai5CECBe1wwqh4ZfUcV5pfVpcrj4qVQ3HnwGj";
 
 // src/verify.ts
